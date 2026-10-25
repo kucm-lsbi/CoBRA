@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "CoBRA"
+message: "If you use CoBRA in your research, please cite the following paper."
+type: software
+
+authors:
+  - family-names: "Jang"
+    given-names: "Wonkyeong"
+  - family-names: "Shin"
+    given-names: "Woong-Hee"
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Jang"
+      given-names: "Wonkyeong"
+    - family-names: "Shin"
+      given-names: "Woong-Hee"
+  title: "CoBRA: compound binding site prediction using RNA language model"
+  journal: "Briefings in Bioinformatics"
+  year: 2026
+  volume: 27
+  issue: 1
+  article-number: "bbaf713"
+  doi: "10.1093/bib/bbaf713"
+  url: "https://doi.org/10.1093/bib/bbaf713"
